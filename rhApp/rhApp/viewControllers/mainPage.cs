@@ -11,7 +11,7 @@ namespace rhApp
 			Content = new StackLayout
 			{
 				Children = {
-					new Label { Text = "Hello Wulakakaka" }
+					new Label { Text = "Hello  new wakalaka" }
 				}
 			};
 		}
